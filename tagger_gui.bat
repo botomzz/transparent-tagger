@@ -1,0 +1,1 @@
+python.exe tkinter_trans1.py
